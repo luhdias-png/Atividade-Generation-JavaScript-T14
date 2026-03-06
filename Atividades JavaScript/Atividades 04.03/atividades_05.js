@@ -10,9 +10,9 @@ A Soma de todos os elementos da Diagonal Secundária
 import leia from "readline-sync"
 
 let matriz = [
-    [0, 0, 0],
-    [0, 0, 0],
-    [0, 0, 0] ];
+    [null, null, null],
+    [null, null, null],
+    [null, null, null] ];
 
 
 console.log("Vamos preencher o quadrado 3x3!");
